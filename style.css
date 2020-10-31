@@ -38,7 +38,7 @@ body {
 
 /* Latihan 3 */
 .container-tiga {
-    width: 800px;
+    max-width: 800px;
     margin: 50px auto;
     display: flex;
     flex-wrap: wrap;
@@ -46,9 +46,15 @@ body {
 }
 
 .thumbnail {
-    width: 25%;    
+    width: 50%;    
 }
 
 .thumbnail img {
     width: 100%;
+}
+
+@media ( min-width: 600px ) {
+    .thumbnail{
+        width: 25%;
+    }
 }
