@@ -35,3 +35,30 @@ body {
     flex: 1;
     order: 3;
 }
+
+/* Latihan 2 */
+.container-dua {
+    width: 800px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.layanan {
+    width: 30%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.layanan.satu {
+    background-color: rgb(100, 100, 255);
+}
+
+.layanan.dua {
+    background-color:rgb(87, 255, 87);
+}
+
+.layanan.tiga {
+    background-color: rgb(255, 104, 104);
+}
+
