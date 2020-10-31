@@ -35,3 +35,20 @@ body {
     flex: 1;
     order: 3;
 }
+
+/* Latihan 3 */
+.container-tiga {
+    width: 800px;
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.thumbnail {
+    width: 25%;    
+}
+
+.thumbnail img {
+    width: 100%;
+}
