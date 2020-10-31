@@ -1,2 +1,2 @@
-# latuhan-felxbox
+# Latihan-FlexBox-CSS
 Repo untuk latihan FlexBox CSS
