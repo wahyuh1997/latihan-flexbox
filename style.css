@@ -38,7 +38,7 @@ body {
 
 /* Latihan 2 */
 .container-dua {
-    width: 800px;
+    max-width: 800px;
     margin: 50px auto;
     display: flex;
     justify-content: space-between;
